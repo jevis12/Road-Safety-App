@@ -15,3 +15,12 @@ reverse engineering, etc) survey link = https://forms.gle/FAFgZ2CrSqEzEcbT9
 - Data gathering
 - Data cleaning
 - User reluctance assessment
+
+  Task 3: Requirement Analysis 
+- Review and analyse the requirements gathered (Completeness, clarity,technical feasibility, dependency relationships)
+- Identify inconsistencies, ambiguities, and missing information
+- Prioritize requirements based on importance and feasibility in cameroon 
+- Classify requirements (functional and non-functional)
+- Develop the software requirement specification (SRS)
+- Validate Requirements with Stakeholders
+
