@@ -24,3 +24,10 @@ reverse engineering, etc) survey link = https://forms.gle/FAFgZ2CrSqEzEcbT9
 - Develop the software requirement specification (SRS)
 - Validate Requirements with Stakeholders
 
+  Task 4: System Design and modeling
+-context diagram
+-Data flow diagrm
+-Sequence diagram
+-usecase diagrams
+-class diagram
+-deployment diagram
