@@ -25,9 +25,9 @@ reverse engineering, etc) survey link = https://forms.gle/FAFgZ2CrSqEzEcbT9
 - Validate Requirements with Stakeholders
 
   Task 4: System Design and modeling
--context diagram
--Data flow diagrm
--Sequence diagram
--usecase diagrams
--class diagram
--deployment diagram
+- context diagram
+- Data flow diagrm
+- Sequence diagram
+- usecase diagrams
+- class diagram
+- deployment diagram
